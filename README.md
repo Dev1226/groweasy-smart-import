@@ -125,21 +125,15 @@ http://localhost:5000
 
 ### Dashboard
 
-_Add dashboard screenshot here_
+![Dashboard](Screenshot%202026-07-11%20233847.png)
 
 ### Upload Page
 
-_Add upload screenshot here_
+![Upload Page](Screenshot%202026-07-11%20233916.png)
 
 ### Import Summary
 
-_Add summary screenshot here_
-
-### CRM Records
-
-_Add CRM table screenshot here_
-
----
+![Import Summary](Screenshot%202026-07-11%20233928.png)
 
 ## 📌 Future Enhancements
 
